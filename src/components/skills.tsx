@@ -1,6 +1,5 @@
 'use client'
 import { HoverEffect } from "../components/ui/card-hover-effect";
-import { FaReact, FaNextjs } from 'react-icons/fa';
 import { SiReact, SiNextdotjs, SiJavascript, SiSpringboot, SiMongodb, SiNodedotjs, SiAmazonaws,
     SiStreamlit } from 'react-icons/si';
 
